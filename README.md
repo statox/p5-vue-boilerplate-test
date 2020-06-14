@@ -1,5 +1,9 @@
 # boilerplate
 
+## Notes for myself
+
+- Change the repository path in `vue.config.js` and `deploy.sh`
+
 ## Project setup
 ```
 npm install
